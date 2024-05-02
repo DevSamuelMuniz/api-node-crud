@@ -1,0 +1,4 @@
+username = devsamuelmuniz
+pass = AOjNBxFn10Q7hQ2Z
+
+appCode = mongodb+srv://devsamuelmuniz:AOjNBxFn10Q7hQ2Z@mobilefac.b8nxxdd.mongodb.net/?retryWrites=true&w=majority&appName=mobileFac
